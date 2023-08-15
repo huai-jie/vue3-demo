@@ -1,0 +1,30 @@
+{
+  "name": "Demo",
+  "slots": 6,
+  "members": [
+    {
+      "name": "Robert",
+      "email": "robert@mail.com",
+      "status": "active",
+      "id": 0
+    },
+    {
+      "name": "Jackie",
+      "email": "jackie@mail.com",
+      "status": "active",
+      "id": 1
+    },
+    {
+      "name": "Steven",
+      "email": "steven@mail.com",
+      "status": "active",
+      "id": 2
+    },
+    {
+      "name": "Taylor",
+      "email": "taylor@mail.com",
+      "status": "active",
+      "id": 3
+    }
+  ]
+}
